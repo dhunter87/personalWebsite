@@ -7,5 +7,6 @@ This is my website project that was given to me as part of my Ada apprenticeship
 
 
 <br><br><br>
+<h3>Side project - version controle!</h3>
 Initialised repository<br>
 Confirmed version control working
